@@ -1,6 +1,12 @@
 
-<<<<<<< HEAD
-*Diving Deep into Deep Neural Nets!!!*
-=======
-**Diving Deep into Deep Neural Nets!**             ![](giphy.webp)
->>>>>>> a953fbd16f40fee6d3dd081cb9775eaeaf171d00
+
+
+**Diving Deep into Deep Neural Nets!**             
+ 
+                                        
+
+
+
+
+                                                                        ![](giphy.webp)
+
