@@ -1,1 +1,3 @@
-**Diving Deep into Deep Neural Nets!** <br/>    <br/>    <br/>       ![](brain.webp)                                                                                       
+**Diving Deep into Deep Neural Nets!** <br/> <!-- Two line breaks here -->
+<br/>
+![](brain.webp)
