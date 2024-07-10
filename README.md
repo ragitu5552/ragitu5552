@@ -2,5 +2,5 @@
 **Diving Deep into Deep Neural Nets!**                                                                                             
 
                    
-                                                                                  :) ![](brain.webp) 
+:)                                                                                                       ![](brain.webp) 
 
