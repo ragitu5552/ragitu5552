@@ -1,6 +1,6 @@
 
 
-
-
-**Diving Deep into Deep Neural Nets!**                                    ![](giph.webp) 
+**Diving Deep into Deep Neural Nets!**                                                                                             
+                                                                                                                                 
+                                                                                                                                 ![](giph.webp) 
 
